@@ -1,6 +1,6 @@
 * HOME
 home__social
-https://www.linkedin.com/
+https://www.linkedin.com/in/aadityaray/
 https://dribbble.com/
 https://github.com/
 
