@@ -10,7 +10,7 @@ High level experience in web design and development knowledge, producing quality
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+Senior Consultant, with extensive knowledge and years of experience, across manufacturing, corporate banking, corporate strategy, finance, oil & gas, energy, renewables, utilities and  lifesciences industries working in advanced data analytics, digital, and cloud technologies with expertise in Ui / Ux design, stakeholder management, design & impleentation, cloud & infrastructure modernisation, and delivering high quality premium work.
 
 about__info-name
 Years <br> experience
